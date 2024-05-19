@@ -1,0 +1,7 @@
+Python==3.11
+opencv-python==4.9.0
+tk==0.1.0
+Pillow==10.3.0
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+cryptography==42.0.7
